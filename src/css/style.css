@@ -1,0 +1,44 @@
+.wrapper{
+    margin: 10%;
+}
+.card {
+    width: 300px;
+    background-color: gray;
+    border-radius: 8px;
+}
+.screen {
+    color: #e7e7e8;
+    padding: 30px 30px 0px 30px;
+    background-color: black;
+    border-radius: 8px;
+    font-size: xxx-large;
+    text-align: end;
+}
+button {
+    color: #e7e7e8;
+    width: 100%;
+    padding: 20px;
+    font-size: 25px;
+    background-color: #616169;
+    /* 616169 */
+    /* 414149 */
+    /* 2d2d36 */
+    /* e7e7e8 */
+}
+.row {
+    width: 100%;
+    display: inline-flex;
+}
+.darkbtn{
+    background-color: #414149;
+}
+.lastbtn{
+    background-color: #fe9f0b;
+}
+.br8{
+    border-radius: 8px;
+}
+.zerobtn{
+    padding: 20px 64px;
+    border-radius: 8px;
+}
